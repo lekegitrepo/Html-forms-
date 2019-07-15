@@ -1,11 +1,11 @@
 # HTML Form
 
 
-#  page clone
+#  Page Clone of Intuit Account.
 
-A clone system of [YouTube video player page](https://www.youtube.com/watch?v=1xiU5bkuGnM).<br>
+A clone system of [Intuit Account - Sign Up](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Ftask%3DS).<br>
 <br>
-Created using  image and video embedding and CSS grid and media query for a responsive layout.
+Created using flexbox display.
 <br><br>
 Built With:
 * HTML5
